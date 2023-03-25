@@ -4,7 +4,7 @@
 Приложение должно иметь пользовательский интерфейс, который позволяет пользователям добавлять веб-страницы для скрапинга и просматривать сохраненные данные.
 
 ## Установка
-1. Клонируйте репозиторий: git clone https://github.com/your_username/project.git
+1. Клонируйте репозиторий: git clone https://github.com/kropalikhappines/webScrapy
 2. Перейдите в директорию проекта: cd project
 3. Создайте виртуальное окружение: python -m venv venv
 4. Активируйте виртуальное окружение: source venv/bin/activate (для Linux/macOS) или venv\Scripts\activate (для Windows)
